@@ -3,7 +3,7 @@
 O sistema permite cadastrar funcionários, alterar dados, aplicar reajustes salariais, demitir funcionários e calcular a folha salarial dos funcionários ativos.
 ## Como executar
 1. Compile o programa
-2. Execute a classe principal: Classe TesteSistema
+2. Execute a classe principal
 ## Descrição das classes 
 - Classe Departamento:
   Responsável por armazenar os funcionários de um departamento, cadastrar novos funcionários, listar os dados cadastrados
