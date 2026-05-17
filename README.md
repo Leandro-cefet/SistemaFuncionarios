@@ -17,4 +17,3 @@ O sistema permite cadastrar funcionários, alterar dados, aplicar reajustes sala
 - Java, JDK 21, Eclipse IDE
 ## Autor
 Leandro, segundo período de Infórmatica
-
